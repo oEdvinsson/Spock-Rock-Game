@@ -115,6 +115,7 @@ h2 {
   }
 }
 
+
 /* Media Query: iPhone (Vertical) */
 @media screen and (max-width: 376px) {
   .game-container {
@@ -142,3 +143,4 @@ h2 {
     margin: 0 20px;
   }
 }
+
